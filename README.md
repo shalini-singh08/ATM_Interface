@@ -12,6 +12,9 @@ are unlocked. The project allows to perform following operations:
 
 3.Deposit
 
-4.Transfer
+4.Balance Inquiry
 
-5.Quit
+5.Transfer
+
+6.Exit
+
